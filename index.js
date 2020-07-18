@@ -92,6 +92,17 @@ $(document).ready(function(){
 
 
              // THE SECTION OF THE RIGHT THREE
+            //  if($(".right-three").hasClass("dark")){
+            //     $(".right-three").removeClass("dark");
+            //     $(".right-three").css("background", "white");
+            // }
+            // else{
+            //     $(".right-three").addClass("dark");
+            //     $(".right-three").css("background", "black");
+            // }
+
+
+
             if($(".right-three-left").hasClass("dark")){
                 $(".right-three-left").removeClass("dark");
                 $(".right-three-left").css("background", "#F4F6FA");
@@ -217,6 +228,27 @@ $(document).ready(function(){
 
 
 
+            if($(".right-four .due").hasClass("dark")){
+                $(".right-four .due").removeClass("dark");
+                $(".right-four .due").css("background", "#546CCE");
+            }
+            else{
+                $(".right-four .due").addClass("dark");
+                $(".right-four .due").css("background", "#CBE1A8");
+            }
+
+
+            if($(".right-four .amount").hasClass("dark")){
+                $(".right-four .amount").removeClass("dark");
+                $(".right-four .amount").css("background", "#00FF00");
+            }
+            else{
+                $(".right-four .amount").addClass("dark");
+                $(".right-four .amount").css("background", "#c51f5d");
+            }
+
+
+
              // THE SECTION OF THE RIGHT FIVE
 
              if($(".right-five").hasClass("dark")){
@@ -285,6 +317,26 @@ $(document).ready(function(){
             else{
                 $(".five-bottom").addClass("dark");
                 $(".five-bottom").css("background", "#062041");
+            }
+
+
+            if($(".right-five .due").hasClass("dark")){
+                $(".right-five .due").removeClass("dark");
+                $(".right-five .due").css("background", "#546CCE");
+            }
+            else{
+                $(".right-five .due").addClass("dark");
+                $(".right-five .due").css("background", "#c51f5d");
+            }
+
+
+            if($(".right-five .amount").hasClass("dark")){
+                $(".right-five .amount").removeClass("dark");
+                $(".right-five .amount").css("background", "#00FF00");
+            }
+            else{
+                $(".right-five .amount").addClass("dark");
+                $(".right-five .amount").css("background", "#CBE1A8");
             }
 
     });

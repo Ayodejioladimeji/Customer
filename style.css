@@ -513,7 +513,7 @@ section{
 /* =======THE SECTION OF THE LEFT========= */
 .left{
     width:17%;
-    height:590px;
+    height:790px;
     background:#546CCE;
     float:left;
     position:fixed;
@@ -704,27 +704,27 @@ button{
 /* =======THE SECTION OF THE RIGHT THREE LEFT======== */
 .right-three-left{
     width:70%;
-    height:50px;
-    background:none;
+    height:40px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:5px;
 }
 .fa-sort{
-    margin-top:14px;
-    color:white;
+    margin-top:10px;
+    color:#546CCE;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;
     font-family:monospace;
     font-size:12px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:15px;
+    margin-top:10px;
 }
 
 
@@ -744,13 +744,13 @@ button{
 
 /*  */
 .right-three-right{
-    width:20%;
-    height:50px;
-    background:transparent;
+    width:22%;
+    height:40px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:5px;
+    margin-left:22px;
 }
 .icons{
     background:white;
@@ -770,9 +770,9 @@ button{
 }
 .fa-navicon{
     font-size:23px;
-    color:white;
-    margin-top:3px;
-    margin-left:30px;
+    color:#546CCE;
+    margin-top:0px;
+    margin-left:24px;
 }
 
 
@@ -782,7 +782,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -824,7 +824,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -897,7 +897,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -1231,27 +1231,27 @@ button{
 /* =======THE SECTION OF THE RIGHT THREE LEFT======== */
 .right-three-left{
     width:70%;
-    height:50px;
-    background:none;
+    height:40px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:5px;
 }
 .fa-sort{
-    margin-top:14px;
-    color:white;
+    margin-top:10px;
+    color:#546CCE;;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;
     font-family:monospace;
     font-size:12px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:15px;
+    margin-top:5px;
 }
 
 
@@ -1271,12 +1271,12 @@ button{
 
 /*  */
 .right-three-right{
-    width:20%;
-    height:50px;
-    background:transparent;
+    width:23%;
+    height:40px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:5px;
     margin-left:20px;
 }
 .icons{
@@ -1297,8 +1297,8 @@ button{
 }
 .fa-navicon{
     font-size:23px;
-    color:white;
-    margin-top:3px;
+    color:#546CCE;
+    margin-top:0px;
     margin-left:30px;
 }
 
@@ -1309,7 +1309,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -1351,7 +1351,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -1424,7 +1424,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -1760,27 +1760,27 @@ button{
 /* =======THE SECTION OF THE RIGHT THREE LEFT======== */
 .right-three-left{
     width:70%;
-    height:50px;
-    background:none;
+    height:40px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:5px;
 }
 .fa-sort{
-    margin-top:14px;
-    color:white;
+    margin-top:10px;
+    color:#546CCE;;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;;
     font-family:monospace;
     font-size:12px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:15px;
+    margin-top:10px;
 }
 
 
@@ -1800,13 +1800,13 @@ button{
 
 /*  */
 .right-three-right{
-    width:20%;
-    height:50px;
-    background:transparent;
+    width:22%;
+    height:40px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:5px;
+    margin-left:30px;
 }
 .icons{
     background:white;
@@ -1826,9 +1826,9 @@ button{
 }
 .fa-navicon{
     font-size:23px;
-    color:white;
-    margin-top:3px;
-    margin-left:50px;
+    color:#546CCE;
+    margin-top:0px;
+    margin-left:33px;
 }
 
 
@@ -1838,7 +1838,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -1880,7 +1880,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -1953,7 +1953,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -2289,27 +2289,27 @@ button{
 /* =======THE SECTION OF THE RIGHT THREE LEFT======== */
 .right-three-left{
     width:70%;
-    height:50px;
-    background:none;
+    height:40px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:5px;
 }
 .fa-sort{
-    margin-top:14px;
-    color:white;
+    margin-top:10px;
+    color:#546CCE;;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;
     font-family:monospace;
     font-size:13px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:15px;
+    margin-top:0px;
 }
 
 
@@ -2330,12 +2330,12 @@ button{
 /*  */
 .right-three-right{
     width:20%;
-    height:50px;
-    background:transparent;
+    height:40px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:5px;
+    margin-left:30px;
 }
 .icons{
     background:white;
@@ -2355,9 +2355,9 @@ button{
 }
 .fa-navicon{
     font-size:23px;
-    color:white;
-    margin-top:3px;
-    margin-left:70px;
+    color:#546CCE;
+    margin-top:-1px;
+    margin-left:42px;
 }
 
 
@@ -2367,7 +2367,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -2409,7 +2409,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -2482,7 +2482,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -2820,26 +2820,26 @@ button{
 .right-three-left{
     width:70%;
     height:50px;
-    background:none;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:5px;
 }
 .fa-sort{
     margin-top:14px;
-    color:white;
+    color:#546CCE;;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;;
     font-family:monospace;
     font-size:15px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:20px;
+    margin-top:10px;
 }
 
 
@@ -2861,11 +2861,11 @@ button{
 .right-three-right{
     width:20%;
     height:50px;
-    background:transparent;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:5px;
+    margin-left:40px;
 }
 .icons{
     background:white;
@@ -2885,9 +2885,9 @@ button{
 }
 .fa-navicon{
     font-size:23px;
-    color:white;
-    margin-top:7px;
-    margin-left:80px;
+    color:#546CCE;
+    margin-top:5px;
+    margin-left:50px;
 }
 
 
@@ -2897,7 +2897,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -2939,7 +2939,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -3012,7 +3012,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -3249,7 +3249,7 @@ input:focus{
 /*  */
 .right-one-middle{
     width:15%;
-    height:60px;
+    height:70px;
     background:white;
     float:left;
 }
@@ -3348,27 +3348,27 @@ button{
 /* =======THE SECTION OF THE RIGHT THREE LEFT======== */
 .right-three-left{
     width:70%;
-    height:60px;
-    background:none;
+    height:50px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:5px;
 }
 .fa-sort{
     margin-top:14px;
-    color:white;
+    color:#546CCE;;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;;
     font-family:monospace;
     font-size:15px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:20px;
+    margin-top:10px;
 }
 
 
@@ -3390,11 +3390,11 @@ button{
 .right-three-right{
     width:20%;
     height:50px;
-    background:transparent;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:5px;
+    margin-left:40px;
 }
 .icons{
     background:white;
@@ -3414,9 +3414,9 @@ button{
 }
 .fa-navicon{
     font-size:25px;
-    color:white;
-    margin-top:8px;
-    margin-left:90px;
+    color:#546CCE;;
+    margin-top:4px;
+    margin-left:50px;
 }
 
 
@@ -3426,7 +3426,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -3468,7 +3468,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -3541,7 +3541,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -3742,7 +3742,7 @@ section{
 /*  */
 .right-one-left{
     background:white;
-    height:60px;
+    height:90px;
     width:85%;
     padding:20px ;
     float:left;
@@ -3778,7 +3778,7 @@ input:focus{
 /*  */
 .right-one-middle{
     width:15%;
-    height:60px;
+    height:90px;
     background:white;
     float:left;
 }
@@ -3877,27 +3877,27 @@ button{
 /* =======THE SECTION OF THE RIGHT THREE LEFT======== */
 .right-three-left{
     width:70%;
-    height:70px;
-    background:none;
+    height:50px;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:10px;
 }
 .fa-sort{
     margin-top:14px;
-    color:white;
+    color:#546CCE;;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;
     font-family:monospace;
     font-size:16px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:25px;
+    margin-top:15px;
 }
 
 
@@ -3919,11 +3919,11 @@ button{
 .right-three-right{
     width:20%;
     height:50px;
-    background:transparent;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:10px;
+    margin-left:40px;
 }
 .icons{
     background:white;
@@ -3943,9 +3943,9 @@ button{
 }
 .fa-navicon{
     font-size:27px;
-    color:white;
-    margin-top:10px;
-    margin-left:100px;
+    color:#546CCE;;
+    margin-top:1px;
+    margin-left:65px;
 }
 
 
@@ -3955,7 +3955,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -3997,7 +3997,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -4070,7 +4070,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -4273,7 +4273,7 @@ section{
 /*  */
 .right-one-left{
     background:white;
-    height:60px;
+    height:80px;
     width:85%;
     padding:20px ;
     float:left;
@@ -4309,7 +4309,7 @@ input:focus{
 /*  */
 .right-one-middle{
     width:15%;
-    height:60px;
+    height:80px;
     background:white;
     float:left;
 }
@@ -4409,26 +4409,26 @@ button{
 .right-three-left{
     width:70%;
     height:50px;
-    background:none;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:11px;
 }
 .fa-sort{
     margin-top:14px;
-    color:white;
+    color:#546CCE;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;
     font-family:monospace;
     font-size:18px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:25px;
+    margin-top:16px;
 }
 
 
@@ -4450,11 +4450,11 @@ button{
 .right-three-right{
     width:20%;
     height:50px;
-    background:transparent;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:11px;
+    margin-left:50px;
 }
 .icons{
     background:white;
@@ -4474,9 +4474,9 @@ button{
 }
 .fa-navicon{
     font-size:28px;
-    color:white;
-    margin-top:11px;
-    margin-left:110px;
+    color:#546CCE;;
+    margin-top:1px;
+    margin-left:80px;
 }
 
 
@@ -4486,7 +4486,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -4528,7 +4528,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -4601,7 +4601,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -4941,26 +4941,26 @@ button{
 .right-three-left{
     width:70%;
     height:50px;
-    background:none;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:10px;
 }
 .fa-sort{
     margin-top:14px;
-    color:white;
+    color:#546CCE;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;
     font-family:monospace;
     font-size:18px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:25px;
+    margin-top:16px;
 }
 
 
@@ -4982,11 +4982,11 @@ button{
 .right-three-right{
     width:20%;
     height:50px;
-    background:transparent;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:10px;
+    margin-left:60px;
 }
 .icons{
     background:white;
@@ -5006,9 +5006,9 @@ button{
 }
 .fa-navicon{
     font-size:28px;
-    color:white;
-    margin-top:11px;
-    margin-left:110px;
+    color:#546CCE;
+    margin-top:3px;
+    margin-left:80px;
 }
 
 
@@ -5018,7 +5018,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -5060,7 +5060,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -5133,7 +5133,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -5472,26 +5472,26 @@ button{
 .right-three-left{
     width:70%;
     height:50px;
-    background:none;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:9px;
 }
 .fa-sort{
     margin-top:14px;
-    color:white;
+    color:#546CCE;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;
     font-family:monospace;
     font-size:18px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:25px;
+    margin-top:15px;
 }
 
 
@@ -5513,11 +5513,11 @@ button{
 .right-three-right{
     width:20%;
     height:50px;
-    background:transparent;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:9px;
+    margin-left:60px;
 }
 .icons{
     background:white;
@@ -5537,9 +5537,9 @@ button{
 }
 .fa-navicon{
     font-size:30px;
-    color:white;
-    margin-top:11px;
-    margin-left:130px;
+    color:#546CCE;
+    margin-top:1px;
+    margin-left:90px;
 }
 
 
@@ -5549,7 +5549,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -5591,7 +5591,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -5664,7 +5664,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:none;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -5990,7 +5990,7 @@ button{
 
 /* ======THE SECTION OF THE RIGHT THREE======== */
 .right-three{
-    background:#546CCE;
+    background:#546CCE;;
     height:70px;
     width:100%;
     border-radius:0px;
@@ -6003,26 +6003,26 @@ button{
 .right-three-left{
     width:70%;
     height:50px;
-    background:none;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
+    margin-top:9px;
 }
 .fa-sort{
     margin-top:14px;
-    color:white;
+    color:#546CCE;;
     margin-right:5px;
     margin-left:0px;
 }
 .right-three-left span{
-    color:white;
+    color:#546CCE;;
     font-family:monospace;
     font-size:18px;
 
 }
 .fa-angle-double-down{
     color:#00ff00;
-    margin-top:25px;
+    margin-top:15px;
 }
 
 
@@ -6044,11 +6044,11 @@ button{
 .right-three-right{
     width:20%;
     height:50px;
-    background:transparent;
+    background:;
     float:left;
     margin:auto;
-    margin-top:0px;
-    margin-left:20px;
+    margin-top:9px;
+    margin-left:70px;
 }
 .icons{
     background:white;
@@ -6068,9 +6068,9 @@ button{
 }
 .fa-navicon{
     font-size:30px;
-    color:white;
-    margin-top:11px;
-    margin-left:130px;
+    color:#546CCE;;
+    margin-top:0px;
+    margin-left:100px;
 }
 
 
@@ -6080,7 +6080,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -6122,7 +6122,7 @@ button{
     margin:auto;
     height:90px;
     border-radius:5px;
-    background:#F4F6FA;
+    background:;
     color:white;
     font-family:cursive;
     border-radius:25px;
@@ -6195,7 +6195,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
@@ -6429,7 +6429,7 @@ input:focus{
 .right-one-middle{
     width:12%;
     height:70px;
-    background:white;
+    background:none;
     float:left;
 }
 .fa-bell{
@@ -6447,7 +6447,7 @@ input:focus{
 .right-one-right{
     width:12%;
     height:70px;
-    background:white;
+    background:none;
     float:left;
 }
 .image-div{
@@ -6506,7 +6506,7 @@ button{
 
 /* ======THE SECTION OF THE RIGHT THREE======== */
 .right-three{
-    background:white;
+    background:;
     height:70px;
     width:95%;
     border-radius:5px;
@@ -6562,7 +6562,7 @@ button{
     margin-left:20px;
 }
 .icons{
-    background:white;
+    background:;
     float:right;
     width:25%;
     text-align:center;
@@ -6589,7 +6589,7 @@ button{
 .right-four{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:;
     height:150px;
     margin-top:20px;
     border-left:1px solid #00ff00;
@@ -6692,7 +6692,7 @@ button{
 .right-five{
     width:95%;
     margin:auto;
-    background:rgb(236, 240, 248);
+    background:;
     height:150px;
     margin-top:20px;
     border-left:1px solid #e0098d;
